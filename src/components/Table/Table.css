@@ -1,0 +1,21 @@
+.crypto-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.crypto-table th,
+.crypto-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.crypto-table th {
+  background-color: #f4f4f4;
+  cursor: pointer;
+}
+
+.crypto-table td img {
+  display: block;
+  margin: 0 auto;
+}
